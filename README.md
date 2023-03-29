@@ -4,7 +4,10 @@
 
 Determine the MAC, IPv4/IPv6, Default Gateway, DHCP Server, DNS Server addresses.
 <h1></h1>
-<b>Step 1:</b> Open Command Prompt and run the <b>[ipconfig](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig)</b> command
+
+<b>Step 1:</b> Open Command Prompt and run the [ipconfig](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig) command 
+
+### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <p align="center">
 <img src="Screenshot (66).jpg"/>
@@ -15,7 +18,7 @@ Determine the MAC, IPv4/IPv6, Default Gateway, DHCP Server, DNS Server addresses
 - <b>What is the Subnet Mask?</b> 255.255.255.0
 - <b>What is the Default Gateway?</b> 192.168.1.254
 
-<b>Step 2:</b> Open Command Prompt and run the <b>[ipconfig/all](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig)</b> command
+<b>Step 2:</b> Open Command Prompt and run the [ipconfig/all](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig) command
 
 
 - no in bold
