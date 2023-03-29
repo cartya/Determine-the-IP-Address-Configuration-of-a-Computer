@@ -18,5 +18,9 @@ Determine the MAC, IPv4/IPv6, Default Gateway, DHCP Server, DNS Server addresses
 
 <b>Step 2:</b> Open Command Prompt and run the [ipconfig/all](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig) command
 
+- <b>What is the MAC address?</b>  F8-DA-0C-46-C5-B1
+- <b>What is the DHCP Server address?</b> 192.168.1.254
+- <b>What is the IP address for the DNS Server?</b>  192.168.1.254
+
 
 - no in bold
