@@ -11,5 +11,11 @@ Determine the MAC, IPv4/IPv6, Default Gateway, DHCP Server, DNS Server addresses
 </p>
 
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-- test test test 
+- <b>What is the IPv4 address?</b>
+- 
+- <b>What is the Subnet Mask?</b>
+- 
+- <b>What is the Default Gateway?</b>
+- 
+- 
+- no in bold
