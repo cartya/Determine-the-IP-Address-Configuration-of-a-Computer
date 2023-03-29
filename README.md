@@ -7,8 +7,6 @@ Determine the MAC, IPv4/IPv6, Default Gateway, DHCP Server, DNS Server addresses
 
 <b>Step 1:</b> Open Command Prompt and run the [ipconfig](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig) command 
 
-### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <p align="center">
 <img src="Screenshot (66).jpg"/>
 </p>
