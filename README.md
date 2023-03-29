@@ -1,4 +1,4 @@
-# Determine the IP Address Configuration of a Device </a>🖥️💻</h1>
+# Determine the IP Address Configuration of a Device 🖥️💻
 
 🔎<b>Objectives</b>
 
@@ -24,3 +24,4 @@ Determine the MAC, IPv4/IPv6, Default Gateway, DHCP Server, DNS Server addresses
 - <b>What is the DNS Server address?</b> 192.168.1.254
 
 <b>Step 3:</b> Verify that the TCP/IP protocol is functioning by pinging the loopback address.
+<img src="Screenshot (68).png">
